@@ -1,0 +1,10 @@
+# Sitio generado y resultados de los retos
+sitio/
+productos.csv
+detalle_productos.json
+hallazgos.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
